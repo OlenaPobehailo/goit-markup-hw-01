@@ -1,3 +1,6 @@
+# Figma
+*.fig
+
 # Logs
 logs
 *.log
